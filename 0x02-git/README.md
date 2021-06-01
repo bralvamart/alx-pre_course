@@ -1,1 +1,0 @@
-This is my ALX git project answer sheet
